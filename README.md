@@ -28,7 +28,7 @@ CREDITS
 Smallwind turbine is an open source project, supported by students of
 I.I.S."P. Levi" Sarezzo (BS) - Italy.
 
-The Robot Arm - Lumezzane team is composed of Vincenzo Antedoro, Antonio Albero,
+The Robot Arm team is composed of Vincenzo Antedoro, Antonio Albero,
 Simone Bossini, Alberto Bregoli, Paolo Ghidini, Stefano Merigo, Andrea Seccardelli, 
 Stefano Romeo and Stefano Segala.
 
